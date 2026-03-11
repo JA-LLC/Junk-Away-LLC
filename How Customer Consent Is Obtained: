@@ -1,0 +1,6 @@
+How Customer Consent Is Obtained:
+Upon arriving at junkaway.com, the customer initiates the estimate process by entering their zip code. They are then invited to upload photos of the items they wish to have removed. Prior to receiving their estimate, the customer is required to submit a valid mobile phone number. A clear disclosure is presented at this step informing the customer that a one-time SMS verification code will be sent to the number provided. The customer must enter this code to unlock the platform's photo analysis tool and receive their instant estimate. Submission of the phone number and entry of the verification code constitutes express consent to receive SMS communications from Junkaway.
+Ongoing SMS Communications:
+If the customer proceeds to pay the estimate deposit and confirm their booking, SMS messaging continues for transactional purposes only. Messages include booking confirmation, estimated time of arrival, and identity confirmation of the hauling professional dispatched to perform the removal service. No promotional messaging is sent via this flow.
+Message Types: Transactional only — 2FA verification, booking confirmation, ETA updates, hauler dispatch notification.
+Opt-Out: Customers may reply STOP at any time to opt out of further SMS communications.
